@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photos of this Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_result">ShowResultActivity</string>
+    <string name="title_activity_start">Start</string>
+    <string name="enterName">Enter name here</string>
+    <string name="searchButton">Search Photos</string>
+    <string name="importContact">Import Contact</string>
+    <string name="flickrLogo">flickr logo</string>
+    <string name="thumbnail">It is a thumbnail</string>
+    <string name="arrow">Arrow</string>
+
+</resources>
