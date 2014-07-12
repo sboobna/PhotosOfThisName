@@ -172,7 +172,7 @@ public class ShowResultActivity extends Activity {
 	}
 
 	class TalkToServer extends AsyncTask<String, Void, Void> {
-		String my_key = "893dcbfc83fe683f70b5f1899496d722";      
+		String my_key = <API-KEY>;      
 		public ProgressDialog progressDialog;
 
 		@Override
